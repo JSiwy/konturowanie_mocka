@@ -1,0 +1,698 @@
+{
+  "skrajne_punkty": [
+    {
+      "name": "Jastrzębia Góra (północ)",
+      "lat": 54.8367,
+      "lng": 18.3167,
+      "description": "Najdalej na północ wysunięty punkt Polski - 54°50'N"
+    },
+    {
+      "name": "Opołonek (południe)",
+      "lat": 49.0017,
+      "lng": 22.8583,
+      "description": "Najdalej na południe wysunięty punkt Polski - 49°00'N"
+    },
+    {
+      "name": "Osinów Dolny (zachód)",
+      "lat": 52.85,
+      "lng": 14.1227,
+      "description": "Najdalej na zachód wysunięty punkt Polski - 14°07'E"
+    },
+    {
+      "name": "Zosin (wschód)",
+      "lat": 50.8417,
+      "lng": 24.15,
+      "description": "Najdalej na wschód wysunięty punkt Polski - 24°09'E"
+    }
+  ],
+  "szczyty_wysokie": [
+    {
+      "name": "Rysy",
+      "lat": 49.1794,
+      "lng": 20.0881,
+      "description": "Najwyższy szczyt Polski - 2499 m n.p.m. (Tatry)"
+    },
+    {
+      "name": "Babia Góra",
+      "lat": 49.5739,
+      "lng": 19.5294,
+      "description": "1725 m n.p.m. (Beskid Żywiecki)"
+    },
+    {
+      "name": "Śnieżka",
+      "lat": 50.7361,
+      "lng": 15.7394,
+      "description": "1603 m n.p.m. (Karkonosze)"
+    },
+    {
+      "name": "Śnieżnik",
+      "lat": 50.2078,
+      "lng": 16.8481,
+      "description": "1425 m n.p.m. (Masyw Śnieżnika)"
+    }
+  ],
+  "wzniesienia_nizu": [
+    {
+      "name": "Wieżyca",
+      "lat": 54.0975,
+      "lng": 17.9806,
+      "description": "329 m n.p.m. - najwyższe wzniesienie Pojezierza Kaszubskiego"
+    },
+    {
+      "name": "Dylewska Góra",
+      "lat": 53.6428,
+      "lng": 19.9444,
+      "description": "312 m n.p.m. - najwyższe wzniesienie północno-wschodniej Polski"
+    },
+    {
+      "name": "Szeska Góra",
+      "lat": 54.1,
+      "lng": 22.5167,
+      "description": "309 m n.p.m. - najwyższe wzniesienie Pojezierza Mazurskiego"
+    },
+    {
+      "name": "Ślęża",
+      "lat": 50.865,
+      "lng": 16.71,
+      "description": "718 m n.p.m. - najwyższy szczyt Masywu Ślęży"
+    }
+  ],
+  "gory": [
+    {
+      "name": "Góry Świętokrzyskie",
+      "lat": 50.9,
+      "lng": 20.8,
+      "description": "Najstarsze góry Polski"
+    },
+    {
+      "name": "Góry Izerskie",
+      "lat": 50.85,
+      "lng": 15.25,
+      "description": "Część Sudetów Zachodnich"
+    },
+    {
+      "name": "Karkonosze",
+      "lat": 50.75,
+      "lng": 15.7,
+      "description": "Najwyższe pasmo Sudetów"
+    },
+    {
+      "name": "Góry Kaczawskie",
+      "lat": 51.0,
+      "lng": 15.9,
+      "description": "Część Sudetów Zachodnich"
+    },
+    {
+      "name": "Góry Sowie",
+      "lat": 50.7,
+      "lng": 16.5,
+      "description": "Część Sudetów Środkowych"
+    },
+    {
+      "name": "Góry Stołowe",
+      "lat": 50.5,
+      "lng": 16.3,
+      "description": "Część Sudetów Środkowych"
+    },
+    {
+      "name": "Góry Orlickie",
+      "lat": 50.25,
+      "lng": 16.4,
+      "description": "Część Sudetów Wschodnich"
+    },
+    {
+      "name": "Góry Złote",
+      "lat": 50.3,
+      "lng": 16.8,
+      "description": "Część Sudetów Wschodnich"
+    },
+    {
+      "name": "Beskid Śląski",
+      "lat": 49.7,
+      "lng": 18.9,
+      "description": "Część Karpat Zachodnich"
+    },
+    {
+      "name": "Beskid Żywiecki",
+      "lat": 49.55,
+      "lng": 19.3,
+      "description": "Część Karpat Zachodnich"
+    },
+    {
+      "name": "Podhale",
+      "lat": 49.4,
+      "lng": 19.9,
+      "description": "Kotlina podtatrzańska"
+    },
+    {
+      "name": "Tatry",
+      "lat": 49.25,
+      "lng": 20.1,
+      "description": "Najwyższe góry Polski"
+    },
+    {
+      "name": "Gorce",
+      "lat": 49.55,
+      "lng": 20.3,
+      "description": "Część Karpat Zachodnich"
+    },
+    {
+      "name": "Pieniny",
+      "lat": 49.4,
+      "lng": 20.4,
+      "description": "Część Karpat Zachodnich"
+    },
+    {
+      "name": "Beskid Sądecki",
+      "lat": 49.45,
+      "lng": 20.7,
+      "description": "Część Karpat Zachodnich"
+    },
+    {
+      "name": "Beskid Niski",
+      "lat": 49.4,
+      "lng": 21.7,
+      "description": "Część Karpat Wschodnich"
+    },
+    {
+      "name": "Bieszczady",
+      "lat": 49.1,
+      "lng": 22.6,
+      "description": "Część Karpat Wschodnich"
+    }
+  ],
+  "przedgorza_pogorza": [
+    {
+      "name": "Przedgórze Sudeckie",
+      "lat": 50.95,
+      "lng": 16.4,
+      "description": "Obszar między Sudety a Niziny"
+    },
+    {
+      "name": "Płaskowyż Głubczycki",
+      "lat": 50.2,
+      "lng": 17.8,
+      "description": "Najwyższe partie Nizin Środkowopolskich"
+    },
+    {
+      "name": "Pogórze Wielickie",
+      "lat": 49.9,
+      "lng": 20.1,
+      "description": "Część Podkarpacia Północnego"
+    },
+    {
+      "name": "Pogórze Przemyskie",
+      "lat": 49.8,
+      "lng": 22.8,
+      "description": "Część Podkarpacia Północnego"
+    }
+  ],
+  "wyzyny": [
+    {
+      "name": "Wyżyna Śląska",
+      "lat": 50.3,
+      "lng": 18.7,
+      "description": "Część Wyżyny Śląsko-Krakowskiej"
+    },
+    {
+      "name": "Wyżyna Małopolska",
+      "lat": 50.8,
+      "lng": 20.5,
+      "description": "Centralna część Wyżyn Polskich"
+    },
+    {
+      "name": "Wyżyna Krakowsko-Częstochowska",
+      "lat": 50.6,
+      "lng": 19.4,
+      "description": "Część Wyżyny Śląsko-Krakowskiej"
+    },
+    {
+      "name": "Wyżyna Bełchatowska",
+      "lat": 51.4,
+      "lng": 19.4,
+      "description": "Część Wzniesień Południowomazowieckich"
+    },
+    {
+      "name": "Wyżyna Kielecka",
+      "lat": 50.9,
+      "lng": 20.8,
+      "description": "Część Wyżyny Małopolskiej"
+    },
+    {
+      "name": "Roztocze",
+      "lat": 50.6,
+      "lng": 23.2,
+      "description": "Część Wyżyny Lubelsko-Lwowskiej"
+    },
+    {
+      "name": "Wyżyna Lubelska",
+      "lat": 51.2,
+      "lng": 22.8,
+      "description": "Część Wyżyny Lubelsko-Lwowskiej"
+    },
+    {
+      "name": "Wyżyna Wołyńska",
+      "lat": 51.0,
+      "lng": 24.0,
+      "description": "Część Wyżyny Wołyńsko-Podolskiej"
+    },
+    {
+      "name": "Wyżyna Przedborska",
+      "lat": 51.1,
+      "lng": 20.0,
+      "description": "Część Wyżyny Małopolskiej"
+    }
+  ],
+  "kotliny_rowiny": [
+    {
+      "name": "Kotlina Sandomierska",
+      "lat": 50.65,
+      "lng": 21.7,
+      "description": "Część Podkarpacia Północnego"
+    },
+    {
+      "name": "Równina Opolska",
+      "lat": 50.65,
+      "lng": 17.9,
+      "description": "Część Niziny Śląskiej"
+    },
+    {
+      "name": "Niecka Nidziańska",
+      "lat": 50.4,
+      "lng": 20.4,
+      "description": "Część Wyżyny Małopolskiej"
+    },
+    {
+      "name": "Kotlina Oświęcimska",
+      "lat": 49.95,
+      "lng": 19.2,
+      "description": "Część Podkarpacia Północnego"
+    },
+    {
+      "name": "Padół Zamojski",
+      "lat": 50.6,
+      "lng": 23.4,
+      "description": "Część Wyżyny Lubelskiej"
+    }
+  ],
+  "niziny": [
+    {
+      "name": "Nizina Śląsko-Łużycka",
+      "lat": 51.3,
+      "lng": 15.2,
+      "description": "Południowo-zachodnia Polska"
+    },
+    {
+      "name": "Nizina Śląska",
+      "lat": 50.5,
+      "lng": 18.2,
+      "description": "Część Nizin Środkowopolskich"
+    },
+    {
+      "name": "Nizina Środkowomazowiecka",
+      "lat": 52.2,
+      "lng": 20.5,
+      "description": "Centralna część Polski"
+    },
+    {
+      "name": "Nizina Północnomazowiecka",
+      "lat": 53.0,
+      "lng": 20.5,
+      "description": "Północno-środkowa Polska"
+    },
+    {
+      "name": "Nizina Południowowielkopolska",
+      "lat": 51.8,
+      "lng": 18.5,
+      "description": "Część Nizin Środkowopolskich"
+    },
+    {
+      "name": "Nizina Południowopodlaska",
+      "lat": 52.2,
+      "lng": 22.0,
+      "description": "Wschodnia część Nizin Środkowopolskich"
+    },
+    {
+      "name": "Nizina Północnopodlaska",
+      "lat": 53.2,
+      "lng": 22.5,
+      "description": "Północno-wschodnia Polska"
+    },
+    {
+      "name": "Polesie Zachodnie",
+      "lat": 51.8,
+      "lng": 23.8,
+      "description": "Wschodnia granica Polski"
+    },
+    {
+      "name": "Nizina Staropruska",
+      "lat": 54.2,
+      "lng": 19.8,
+      "description": "Północno-wschodnia Polska"
+    },
+    {
+      "name": "Żuławy Wiślane",
+      "lat": 54.2,
+      "lng": 19.0,
+      "description": "Delta Wisły"
+    }
+  ],
+  "pojezierza": [
+    {
+      "name": "Pojezierze Leszczyńskie",
+      "lat": 51.8,
+      "lng": 16.6,
+      "description": "Zachodnia Wielkopolska"
+    },
+    {
+      "name": "Pojezierze Lubuskie",
+      "lat": 52.5,
+      "lng": 15.5,
+      "description": "Zachodnia Polska"
+    },
+    {
+      "name": "Pojezierze Poznańskie",
+      "lat": 52.4,
+      "lng": 17.0,
+      "description": "Centralna Wielkopolska"
+    },
+    {
+      "name": "Pojezierze Gnieźnieńskie",
+      "lat": 52.5,
+      "lng": 17.6,
+      "description": "Wschodnia Wielkopolska"
+    },
+    {
+      "name": "Pojezierze Chełmińskie",
+      "lat": 53.2,
+      "lng": 18.4,
+      "description": "Północno-środkowa Polska"
+    },
+    {
+      "name": "Pojezierze Myśliborskie",
+      "lat": 52.9,
+      "lng": 14.9,
+      "description": "Zachodnia Polska"
+    },
+    {
+      "name": "Pojezierze Kaszubskie",
+      "lat": 54.2,
+      "lng": 17.8,
+      "description": "Północno-zachodnia Polska"
+    },
+    {
+      "name": "Pojezierze Drawskie",
+      "lat": 53.5,
+      "lng": 16.1,
+      "description": "Zachodniopomorskie"
+    },
+    {
+      "name": "Pojezierze Iławskie",
+      "lat": 53.6,
+      "lng": 19.6,
+      "description": "Północno-środkowa Polska"
+    },
+    {
+      "name": "Pojezierze Olsztyńskie",
+      "lat": 53.8,
+      "lng": 20.5,
+      "description": "Warmińsko-Mazurskie"
+    },
+    {
+      "name": "Pojezierze Wschodniosuwalskie",
+      "lat": 54.1,
+      "lng": 22.9,
+      "description": "Północno-wschodnia Polska"
+    },
+    {
+      "name": "Pojezierze Zachodniosuwalskie",
+      "lat": 54.0,
+      "lng": 22.5,
+      "description": "Północno-wschodnia Polska"
+    }
+  ],
+  "inne_krainy": [
+    {
+      "name": "Wzgórza Trzebnickie",
+      "lat": 51.3,
+      "lng": 17.1,
+      "description": "Część Wału Trzebnickiego"
+    },
+    {
+      "name": "Wzniesienia Południowomazowieckie",
+      "lat": 51.7,
+      "lng": 19.5,
+      "description": "Część Nizin Środkowopolskich"
+    },
+    {
+      "name": "Pobrzeże Szczecińskie",
+      "lat": 53.4,
+      "lng": 14.5,
+      "description": "Północno-zachodnie wybrzeże"
+    },
+    {
+      "name": "Pobrzeże Koszalińskie",
+      "lat": 54.2,
+      "lng": 16.2,
+      "description": "Środkowe wybrzeże"
+    },
+    {
+      "name": "Pobrzeże Słowińskie",
+      "lat": 54.6,
+      "lng": 17.1,
+      "description": "Wybrzeże środkowe"
+    },
+    {
+      "name": "Pobrzeże Gdańskie",
+      "lat": 54.5,
+      "lng": 18.5,
+      "description": "Wschodnie wybrzeże"
+    }
+  ],
+  "rzeki": [
+    {
+      "name": "Wisła",
+      "lat": 52.0,
+      "lng": 21.0,
+      "description": "Najdłuższa rzeka Polski - 1047 km"
+    },
+    {
+      "name": "Odra",
+      "lat": 51.1,
+      "lng": 17.0,
+      "description": "Druga najdłuższa rzeka - 854 km"
+    },
+    {
+      "name": "Warta",
+      "lat": 52.0,
+      "lng": 17.5,
+      "description": "Trzecia najdłuższa rzeka - 808 km"
+    },
+    {
+      "name": "Bug",
+      "lat": 52.4,
+      "lng": 23.0,
+      "description": "Dopływ Narwi - 772 km"
+    },
+    {
+      "name": "Narew",
+      "lat": 53.0,
+      "lng": 21.5,
+      "description": "Dopływ Wisły - 484 km"
+    },
+    {
+      "name": "San",
+      "lat": 50.0,
+      "lng": 22.0,
+      "description": "Dopływ Wisły - 458 km"
+    },
+    {
+      "name": "Noteć",
+      "lat": 53.0,
+      "lng": 17.0,
+      "description": "Dopływ Warty - 391 km"
+    },
+    {
+      "name": "Pilica",
+      "lat": 51.5,
+      "lng": 20.0,
+      "description": "Dopływ Wisły - 319 km"
+    },
+    {
+      "name": "Wieprz",
+      "lat": 51.0,
+      "lng": 22.5,
+      "description": "Rzeka wschodniej Polski - 303 km"
+    },
+    {
+      "name": "Bóbr",
+      "lat": 51.8,
+      "lng": 15.2,
+      "description": "Dopływ Odry - 272 km"
+    },
+    {
+      "name": "Łyna",
+      "lat": 54.0,
+      "lng": 20.5,
+      "description": "Rzeka północno-wschodniej Polski - 264 km"
+    },
+    {
+      "name": "Nysa Łużycka",
+      "lat": 51.2,
+      "lng": 14.7,
+      "description": "Dopływ Odry - 252 km"
+    },
+    {
+      "name": "Nysa Kłodzka",
+      "lat": 50.4,
+      "lng": 17.3,
+      "description": "Dopływ Odry - 182 km"
+    },
+    {
+      "name": "Bzura",
+      "lat": 52.0,
+      "lng": 19.5,
+      "description": "Dopływ Wisły - 166 km"
+    },
+    {
+      "name": "Biebrza",
+      "lat": 53.5,
+      "lng": 22.7,
+      "description": "Dopływ Narwi - 155 km"
+    },
+    {
+      "name": "Łeba",
+      "lat": 54.5,
+      "lng": 17.6,
+      "description": "Rzeka północnej Polski - 117 km"
+    },
+    {
+      "name": "Dunajec",
+      "lat": 49.4,
+      "lng": 20.4,
+      "description": "Dopływ Wisły - 247 km"
+    },
+    {
+      "name": "Prosna",
+      "lat": 51.5,
+      "lng": 18.2,
+      "description": "Dopływ Warty - 217 km"
+    }
+  ],
+  "jeziora": [
+    {
+      "name": "Śniardwy",
+      "lat": 53.75,
+      "lng": 21.6,
+      "description": "Największe jezioro Polski - 113,8 km²"
+    },
+    {
+      "name": "Mamry",
+      "lat": 54.2,
+      "lng": 21.6,
+      "description": "Drugie największe jezioro - 104 km²"
+    },
+    {
+      "name": "Łebsko",
+      "lat": 54.7,
+      "lng": 17.4,
+      "description": "Trzecie największe jezioro - 71,4 km²"
+    },
+    {
+      "name": "Dąbie",
+      "lat": 53.4,
+      "lng": 14.6,
+      "description": "Jezioro zachodniopomorskie - 56,8 km²"
+    },
+    {
+      "name": "Miedwie",
+      "lat": 53.3,
+      "lng": 14.8,
+      "description": "Jezioro zachodniopomorskie - 36,3 km²"
+    },
+    {
+      "name": "Jeziorak",
+      "lat": 53.8,
+      "lng": 19.4,
+      "description": "Najdłuższe jezioro Polski - 27,5 km²"
+    },
+    {
+      "name": "Gardno",
+      "lat": 54.7,
+      "lng": 17.1,
+      "description": "Jezioro przybrzeżne - 24,7 km²"
+    },
+    {
+      "name": "Jamno",
+      "lat": 54.3,
+      "lng": 16.1,
+      "description": "Jezioro przybrzeżne - 22,4 km²"
+    },
+    {
+      "name": "Wigry",
+      "lat": 54.0,
+      "lng": 23.1,
+      "description": "Jezioro suwalskie - 21,9 km²"
+    },
+    {
+      "name": "Hańcza",
+      "lat": 54.3,
+      "lng": 22.8,
+      "description": "Najgłębsze jezioro Polski - 106 m"
+    },
+    {
+      "name": "Drawsko",
+      "lat": 53.5,
+      "lng": 16.0,
+      "description": "Jezioro drawskie - 18,4 km²"
+    },
+    {
+      "name": "Włocławskie",
+      "lat": 52.6,
+      "lng": 19.1,
+      "description": "Sztuczne jezioro na Wiśle - 75 km²"
+    },
+    {
+      "name": "Solińskie",
+      "lat": 49.4,
+      "lng": 22.5,
+      "description": "Sztuczne jezioro w Bieszczadach - 22 km²"
+    },
+    {
+      "name": "Racibórz Dolny",
+      "lat": 50.1,
+      "lng": 18.2,
+      "description": "Sztuczny zbiornik na Odrze - 26 km²"
+    },
+    {
+      "name": "Jeziorsko",
+      "lat": 51.7,
+      "lng": 18.6,
+      "description": "Sztuczne jezioro na Warcie - 42,3 km²"
+    },
+    {
+      "name": "Czorsztyńskie",
+      "lat": 49.4,
+      "lng": 20.3,
+      "description": "Sztuczne jezioro na Dunajcu - 12,3 km²"
+    },
+    {
+      "name": "Nyskie",
+      "lat": 50.5,
+      "lng": 17.3,
+      "description": "Sztuczne jezioro na Nysie Kłodzkiej - 20 km²"
+    },
+    {
+      "name": "Otmuchowskie",
+      "lat": 50.4,
+      "lng": 17.2,
+      "description": "Sztuczne jezioro na Nysie Kłodzkiej - 20 km²"
+    },
+    {
+      "name": "Zegrzyńskie",
+      "lat": 52.5,
+      "lng": 20.9,
+      "description": "Sztuczne jezioro na Narwi - 33 km²"
+    }
+  ]
+}
