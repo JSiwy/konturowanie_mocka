@@ -2,25 +2,25 @@
   "skrajne_punkty": [
     {
       "name": "Jastrzębia Góra (północ)",
-      "lat": 54.8367,
-      "lng": 18.3167,
+      "lat": 54.837,
+      "lng": 18.317,
       "description": "Najdalej na północ wysunięty punkt Polski - 54°50'N"
     },
     {
       "name": "Opołonek (południe)",
-      "lat": 49.0017,
-      "lng": 22.8583,
+      "lat": 49.002,
+      "lng": 22.858,
       "description": "Najdalej na południe wysunięty punkt Polski - 49°00'N"
     },
     {
       "name": "Osinów Dolny (zachód)",
       "lat": 52.85,
-      "lng": 14.1227,
+      "lng": 14.123,
       "description": "Najdalej na zachód wysunięty punkt Polski - 14°07'E"
     },
     {
       "name": "Zosin (wschód)",
-      "lat": 50.8417,
+      "lat": 50.842,
       "lng": 24.15,
       "description": "Najdalej na wschód wysunięty punkt Polski - 24°09'E"
     }
@@ -28,46 +28,46 @@
   "szczyty_wysokie": [
     {
       "name": "Rysy",
-      "lat": 49.1794,
-      "lng": 20.0881,
+      "lat": 49.179,
+      "lng": 20.088,
       "description": "Najwyższy szczyt Polski - 2499 m n.p.m. (Tatry)"
     },
     {
       "name": "Babia Góra",
-      "lat": 49.5739,
-      "lng": 19.5294,
+      "lat": 49.574,
+      "lng": 19.529,
       "description": "1725 m n.p.m. (Beskid Żywiecki)"
     },
     {
       "name": "Śnieżka",
-      "lat": 50.7361,
-      "lng": 15.7394,
+      "lat": 50.736,
+      "lng": 15.739,
       "description": "1603 m n.p.m. (Karkonosze)"
     },
     {
       "name": "Śnieżnik",
-      "lat": 50.2078,
-      "lng": 16.8481,
+      "lat": 50.208,
+      "lng": 16.848,
       "description": "1425 m n.p.m. (Masyw Śnieżnika)"
     }
   ],
   "wzniesienia_nizu": [
     {
       "name": "Wieżyca",
-      "lat": 54.0975,
-      "lng": 17.9806,
+      "lat": 54.097,
+      "lng": 17.981,
       "description": "329 m n.p.m. - najwyższe wzniesienie Pojezierza Kaszubskiego"
     },
     {
       "name": "Dylewska Góra",
-      "lat": 53.6428,
-      "lng": 19.9444,
+      "lat": 53.643,
+      "lng": 19.944,
       "description": "312 m n.p.m. - najwyższe wzniesienie północno-wschodniej Polski"
     },
     {
       "name": "Szeska Góra",
       "lat": 54.1,
-      "lng": 22.5167,
+      "lng": 22.517,
       "description": "309 m n.p.m. - najwyższe wzniesienie Pojezierza Mazurskiego"
     },
     {
@@ -472,56 +472,56 @@
   "rzeki": [
     {
       "name": "Wisła",
-      "lat": 52.0,
-      "lng": 21.0,
+      "lat": 52.381,
+      "lng": 20.087,
       "description": "Najdłuższa rzeka Polski - 1047 km"
     },
     {
       "name": "Odra",
-      "lat": 51.1,
-      "lng": 17.0,
+      "lat": 51.613,
+      "lng": 16.337,
       "description": "Druga najdłuższa rzeka - 854 km"
     },
     {
       "name": "Warta",
-      "lat": 52.0,
-      "lng": 17.5,
+      "lat": 50.491,
+      "lng": 19.49,
       "description": "Trzecia najdłuższa rzeka - 808 km"
     },
     {
       "name": "Bug",
-      "lat": 52.4,
-      "lng": 23.0,
+      "lat": 51.534,
+      "lng": 23.565,
       "description": "Dopływ Narwi - 772 km"
     },
     {
       "name": "Narew",
-      "lat": 53.0,
-      "lng": 21.5,
+      "lat": 52.733,
+      "lng": 24.333,
       "description": "Dopływ Wisły - 484 km"
     },
     {
       "name": "San",
-      "lat": 50.0,
-      "lng": 22.0,
+      "lat": 49.782,
+      "lng": 22.484,
       "description": "Dopływ Wisły - 458 km"
     },
     {
       "name": "Noteć",
-      "lat": 53.0,
-      "lng": 17.0,
+      "lat": 52.375,
+      "lng": 19.007,
       "description": "Dopływ Warty - 391 km"
     },
     {
       "name": "Pilica",
-      "lat": 51.5,
-      "lng": 20.0,
+      "lat": 51.617,
+      "lng": 20.333,
       "description": "Dopływ Wisły - 319 km"
     },
     {
       "name": "Wieprz",
-      "lat": 51.0,
-      "lng": 22.5,
+      "lat": 51.281,
+      "lng": 22.873,
       "description": "Rzeka wschodniej Polski - 303 km"
     },
     {
@@ -582,20 +582,20 @@
   "jeziora": [
     {
       "name": "Śniardwy",
-      "lat": 53.75,
-      "lng": 21.6,
+      "lat": 53.767,
+      "lng": 21.75,
       "description": "Największe jezioro Polski - 113,8 km²"
     },
     {
       "name": "Mamry",
-      "lat": 54.2,
-      "lng": 21.6,
+      "lat": 54.172,
+      "lng": 21.698,
       "description": "Drugie największe jezioro - 104 km²"
     },
     {
       "name": "Łebsko",
-      "lat": 54.7,
-      "lng": 17.4,
+      "lat": 54.712,
+      "lng": 17.366,
       "description": "Trzecie największe jezioro - 71,4 km²"
     },
     {
