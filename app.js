@@ -43,7 +43,7 @@ class PolandGeographyApp {
 
     async loadData() {
         try {
-            const response = await fetch('https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/c83902457f8ce1a024d00c243f4dc762/a7b5e006-2f0b-4987-99ca-c384285f11b1/e8c039fa.json');
+            const response = await fetch('poland_geography_data.json');
             if (!response.ok) throw new Error('Failed to fetch data');
             this.data = await response.json();
             console.log('Dane załadowane, klucze:', Object.keys(this.data || {}));
