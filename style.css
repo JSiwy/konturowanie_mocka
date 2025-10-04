@@ -1119,8 +1119,8 @@ input:checked + .slider:before {
 .marker-lowlands { background-color: #944454; }
 .marker-lakelands { background-color: #1FB8CD; }
 .marker-other-regions { background-color: #D2BA4C; }
-.marker-rivers { background-color: #1FB8CD; }
-.marker-lakes { background-color: #1FB8CD; }
+.marker-rivers { background-color: #132fca; }
+.marker-lakes { background-color: #0cd196; }
 
 /* Responsive design */
 @media (max-width: 768px) {
