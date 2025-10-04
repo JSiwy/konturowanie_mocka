@@ -148,8 +148,8 @@ class PolandGeographyApp {
             'lowlands': '#944454',
             'lakelands': '#1FB8CD',
             'other-regions': '#D2BA4C',
-            'rivers': '#1FB8CD',
-            'lakes': '#1FB8CD'
+            'rivers': '#0e2fc2ff',
+            'lakes': '#0ec991ff'
         };
         return colors[colorKey] || '#666666';
     }
